@@ -1,3 +1,4 @@
+/// <reference types="node" />
 // Vercel Serverless Function: POST /api/verify
 // Required env vars (set in Vercel Project → Settings → Environment Variables):
 //   OPENAI_API_KEY
